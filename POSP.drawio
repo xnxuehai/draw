@@ -123,7 +123,7 @@
             <mxPoint x="-110" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-55" value="等终端设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-55" value="其它终端设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="479.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-60" value="read()&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;write()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
