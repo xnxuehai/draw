@@ -125,10 +125,10 @@
           <mxGeometry x="312.5" y="250" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="170" width="220" height="440" as="geometry" />
+          <mxGeometry x="-110" y="180" width="220" height="440" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-52" value="三方收单服务集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="190" width="110" height="30" as="geometry" />
+          <mxGeometry x="-60" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-53" value="POS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="260.63" width="120" height="60" as="geometry" />
@@ -152,22 +152,22 @@
           <mxGeometry x="480" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-68" value="OpenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="288.75" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="298.75" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-69" value="OpenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="479.38" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="489.38" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-70" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="268.43" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="278.43" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-71" value="TRADE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="309.06" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="319.06" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-76" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="454.37" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="464.37" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-77" value="TRADE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="495" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="505" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
