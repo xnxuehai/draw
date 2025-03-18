@@ -246,6 +246,15 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-119" value="POSP Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="525" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-120" value="CUPS Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="340" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-121" value="CUPS Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="430" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-122" value="CUPS Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="651.25" y="525" width="97.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
