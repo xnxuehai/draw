@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-104" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="645" width="560" height="200" as="geometry" />
+          <mxGeometry x="-110" y="645" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-106" value="Nacos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="665" width="120" height="60" as="geometry" />
