@@ -8,7 +8,7 @@
           <mxGeometry x="560" y="180" width="220" height="440" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-6" value="CUPS 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="80" height="30" as="geometry" />
+          <mxGeometry x="635" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="250" width="170" height="60" as="geometry" />
