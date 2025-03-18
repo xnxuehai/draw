@@ -59,7 +59,7 @@
           <mxGeometry x="290" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="525" width="170" height="60" as="geometry" />
+          <mxGeometry x="260" y="525" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-32" value="IP: 10.10.5.74" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="546.25" width="100" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-33" value="31281" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="546.25" width="40" height="17.5" as="geometry" />
+          <mxGeometry x="395" y="546.25" width="40" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="170" height="60" as="geometry" />
