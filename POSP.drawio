@@ -7,7 +7,7 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="180" width="220" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-6" value="CUPS 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CUPS Cluster&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,8 +52,8 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="220" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-30" value="POSP 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="190" width="80" height="30" as="geometry" />
+        <mxCell id="w0YdTihby0F7IcrnFkbi-30" value="POSP&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Cluster&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="525" width="170" height="60" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="180" width="220" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-52" value="三方收单服务集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-52" value="BCA&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Cluster&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-53" value="POS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
