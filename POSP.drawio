@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-68" value="OpenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="298.75" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="295.75" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-69" target="w0YdTihby0F7IcrnFkbi-76">
           <mxGeometry relative="1" as="geometry" />
@@ -167,22 +167,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-69" value="OpenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="489.38" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="488.38" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-70" target="w0YdTihby0F7IcrnFkbi-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-70" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="278.43" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="275.43" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-71" value="TRADE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="319.06" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="316.06" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-76" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="464.37" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="463.37" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-77" value="TRADE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="505" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="504" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-82" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.677;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-76" target="w0YdTihby0F7IcrnFkbi-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
