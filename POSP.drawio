@@ -1,62 +1,62 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="-P5E99QZVnwb-VCPSgCj">
-    <mxGraphModel dx="2058" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2630" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w0YdTihby0F7IcrnFkbi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="220" height="440" as="geometry" />
+          <mxGeometry x="590" y="180" width="220" height="440" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-6" value="CUPS 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="635" y="190" width="80" height="30" as="geometry" />
+          <mxGeometry x="665" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="250" width="170" height="60" as="geometry" />
+          <mxGeometry x="620" y="250" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-9" value="IP: 10.10.5.81" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="271.25" width="100" height="30" as="geometry" />
+          <mxGeometry x="655" y="271.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-11" value="31281" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="271.25" width="40" height="17.5" as="geometry" />
+          <mxGeometry x="615" y="271.25" width="40" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-12" value="CUPS 服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="250" width="65" height="30" as="geometry" />
+          <mxGeometry x="672.5" y="250" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="340" width="170" height="60" as="geometry" />
+          <mxGeometry x="620" y="340" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-18" value="IP: 10.10.5.82" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="361.25" width="100" height="30" as="geometry" />
+          <mxGeometry x="655" y="361.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-19" value="31281" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="361.25" width="40" height="17.5" as="geometry" />
+          <mxGeometry x="615" y="361.25" width="40" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-20" value="CUPS 服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="340" width="65" height="30" as="geometry" />
+          <mxGeometry x="672.5" y="340" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587.5" y="430" width="170" height="60" as="geometry" />
+          <mxGeometry x="617.5" y="430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-22" value="IP: 10.10.5.83" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="451.25" width="100" height="30" as="geometry" />
+          <mxGeometry x="652.5" y="451.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-23" value="31281" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="451.25" width="40" height="17.5" as="geometry" />
+          <mxGeometry x="612.5" y="451.25" width="40" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-24" value="CUPS 服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="430" width="65" height="30" as="geometry" />
+          <mxGeometry x="670" y="430" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587.5" y="525" width="170" height="60" as="geometry" />
+          <mxGeometry x="617.5" y="525" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-26" value="IP: 10.10.5.84" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="546.25" width="100" height="30" as="geometry" />
+          <mxGeometry x="652.5" y="546.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-27" value="31281" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="546.25" width="40" height="17.5" as="geometry" />
+          <mxGeometry x="612.5" y="546.25" width="40" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-28" value="CUPS 服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="525" width="65" height="30" as="geometry" />
+          <mxGeometry x="670" y="525" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="220" height="440" as="geometry" />
