@@ -231,28 +231,28 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-104" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="690" width="560" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-106" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-106" value="Nacos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-107" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-107" value="RocketMQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-111" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-111" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-112" value="分布式链路追踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-112" value="Skywalking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-113" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-113" value="Oracle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-114" value="分布式事务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-114" value="Seata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-115" value="分布式限流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-115" value="Sentinel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0YdTihby0F7IcrnFkbi-116" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;监控系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w0YdTihby0F7IcrnFkbi-116" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Prometheus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
