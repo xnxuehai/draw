@@ -203,7 +203,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-91" value="HTTP+JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="130" y="241.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-92" value="HTTP+JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="479.38" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
