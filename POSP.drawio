@@ -252,6 +252,9 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-115" value="分布式限流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-116" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;监控系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
