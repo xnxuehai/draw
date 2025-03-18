@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="-P5E99QZVnwb-VCPSgCj">
-    <mxGraphModel dx="2007" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2058" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,8 +151,20 @@
         <mxCell id="w0YdTihby0F7IcrnFkbi-66" value="read()&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;write()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="525" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-68" target="w0YdTihby0F7IcrnFkbi-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-68" target="w0YdTihby0F7IcrnFkbi-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-68" value="OpenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="298.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-69" target="w0YdTihby0F7IcrnFkbi-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0YdTihby0F7IcrnFkbi-69" target="w0YdTihby0F7IcrnFkbi-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-69" value="OpenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="489.38" width="70" height="30" as="geometry" />
@@ -168,6 +180,9 @@
         </mxCell>
         <mxCell id="w0YdTihby0F7IcrnFkbi-77" value="TRADE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="505" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w0YdTihby0F7IcrnFkbi-82" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
